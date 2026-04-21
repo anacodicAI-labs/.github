@@ -33,15 +33,15 @@ Three ways to contribute:
 
 📖 **Learn:** Work through the curriculum and publish tutorials or guides with your byline. 
 
-[Open Learning Hub →](https://anacodic.ai/learn)
+[Open Learning Hub →](https://anacodicai.com/learn)
 
 🔬 **Research:** Join a faculty-backed research thread. Run experiments, write sections, earn co-authorship.
 
-[See open research →](https://anacodic.ai/research)
+[See open research →](https://anacodicai.com/research)
 
 🛠 **Projects:** Join a production project with real users and constraints.
 
-[View open projects →](https://anacodic.ai/projects)
+[View open projects →](https://anacodicai.com/projects)
 
 [Come find us in Slack](https://join.slack.com/t/anacodicai-labs/shared_invite/zt-3u24krbqa-a76Ywve58~omB4oNWONevw) follow updates, open roles, and what we're building.
 
