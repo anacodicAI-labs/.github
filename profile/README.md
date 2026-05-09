@@ -47,4 +47,4 @@ Three ways to contribute:
 
 ---
 
-Founded at Boston University · Registered NGO · Volunteer-run
+Founded at Boston University · Non-Profit · Volunteer-run
